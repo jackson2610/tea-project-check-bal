@@ -1,0 +1,33 @@
+{
+  "name": "tea-project-check-bal",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackson2610/tea-project-check-bal.git"
+  },
+  "keywords": [
+    "tea-project-check-bal",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "jackson2610",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackson2610/tea-project-check-bal/issues"
+  },
+  "homepage": "https://github.com/jackson2610/tea-project-check-bal#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "tea-gas-convert-checking": "1.0.0"
+
+  }
+}
